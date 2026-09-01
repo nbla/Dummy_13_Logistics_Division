@@ -240,3 +240,5 @@ Dust cannot see the world.
 This has not prevented Dust from investigating it.
 
 Current methodology relies heavily on curiosity, physical contact and discovering why things are made of warm.
+
+![Dust investigating fire](images/dust_01.jpg)
