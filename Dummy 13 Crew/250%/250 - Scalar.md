@@ -176,3 +176,5 @@ Glitch describes Scalar as:
 Scalar describes Scalar as:
 
 «Concerned.»
+
+![[images/scalar_01.jpg]]

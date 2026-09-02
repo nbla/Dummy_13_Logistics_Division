@@ -351,3 +351,6 @@ Whether this is because the firmware evolved...
 ...or because everyone else simply noticed too late...
 
 remains an open question.
+
+![[images/glitch_01.jpg]]
+![[images/glitch_02.jpg]]

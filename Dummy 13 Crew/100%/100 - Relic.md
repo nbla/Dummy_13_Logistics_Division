@@ -204,3 +204,5 @@ DV04 remains operational.
 Archive remains behind the wheel.
 
 Relic intends to keep it that way.
+
+![[images/relic_01.jpg]]

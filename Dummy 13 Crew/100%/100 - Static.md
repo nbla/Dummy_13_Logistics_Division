@@ -197,3 +197,5 @@ Static is not yet an expert.
 Static is usually the first unit to arrive and the last unit to leave.
 
 This is generally considered both admirable and worrying.
+
+![[images/static_01.jpg]]

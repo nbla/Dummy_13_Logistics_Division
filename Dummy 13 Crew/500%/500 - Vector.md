@@ -207,3 +207,5 @@ When plans fail, systems break and communications become unclear, Vector remains
 Finish the mission.
 
 Then worry about the rest.
+
+![[images/vector_01.jpg]]

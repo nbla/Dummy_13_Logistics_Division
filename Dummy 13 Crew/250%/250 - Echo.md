@@ -168,3 +168,5 @@ Echo approaches Logistics Division problems primarily through systems, communica
 The equipment may be functioning.
 
 Echo's responsibility is determining whether it is functioning correctly.
+
+![[images/echo_01.jpg]]

@@ -185,3 +185,5 @@ While others focus on destinations, Haven remains interested in the journey.
 This is occasionally inefficient.
 
 It is almost always worthwhile.
+
+![[images/haven_01.jpg]]

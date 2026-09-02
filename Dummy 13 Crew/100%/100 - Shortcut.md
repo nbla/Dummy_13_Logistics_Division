@@ -209,3 +209,5 @@ Shortcut knows where the Division needs to go.
 Shortcut usually knows how to get there.
 
 Whether the vehicle should actually travel that way remains a separate operational question.
+
+![[images/shortcut_01.jpg]]
