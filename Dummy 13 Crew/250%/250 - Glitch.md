@@ -352,5 +352,5 @@ Whether this is because the firmware evolved...
 
 remains an open question.
 
-![[images/glitch_01.jpg]]
-![[images/glitch_02.jpg]]
+![images/glitch_01.jpg](images/glitch_01.jpg)
+![images/glitch_02.jpg](images/glitch_02.jpg)

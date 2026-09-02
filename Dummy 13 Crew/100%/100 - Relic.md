@@ -205,4 +205,4 @@ Archive remains behind the wheel.
 
 Relic intends to keep it that way.
 
-![[images/relic_01.jpg]]
+![images/relic_01.jpg](images/relic_01.jpg)

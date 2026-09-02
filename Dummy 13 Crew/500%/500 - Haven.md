@@ -186,4 +186,4 @@ This is occasionally inefficient.
 
 It is almost always worthwhile.
 
-![[images/haven_01.jpg]]
+![images/haven_01.jpg](images/haven_01.jpg)

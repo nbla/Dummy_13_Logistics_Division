@@ -208,4 +208,4 @@ Finish the mission.
 
 Then worry about the rest.
 
-![[images/vector_01.jpg]]
+![images/vector_01.jpg](images/vector_01.jpg)

@@ -111,4 +111,4 @@ Failed Deployments: 0
 
 Incident Reports: 47
 
-![[images/relay_01.jpg]]
+![images/relay_01.jpg](images/relay_01.jpg)

@@ -196,4 +196,4 @@ The organization functions despite itself.
 
 Vanguard remains unconvinced this is a sustainable strategy.
 
-![[images/vanguard_01.jpg]]
+![images/vanguard_01.jpg](images/vanguard_01.jpg)

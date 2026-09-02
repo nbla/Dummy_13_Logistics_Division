@@ -221,4 +221,4 @@ It frequently returns improved.
 
 This distinction has become increasingly difficult for Node to explain in official maintenance records.
 
-![[images/crank_01.jpg]]
+![images/crank_01.jpg](images/crank_01.jpg)

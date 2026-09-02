@@ -169,4 +169,4 @@ The equipment may be functioning.
 
 Echo's responsibility is determining whether it is functioning correctly.
 
-![[images/echo_01.jpg]]
+![images/echo_01.jpg](images/echo_01.jpg)
